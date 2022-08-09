@@ -1,0 +1,6 @@
+OCMetSim-Single cells is an agent-based model used to make predictions about ovarian cancer single cell metastasis to distant metastatic sites based on Rac1 GTPase expression.
+OCMetSim-Spheroids is an agent-based model used to make predictions about ovarian cancer spheroid metastasis to distant metastatic sites based on Rac1 GTPase expression.
+
+Adhesion and invasion parameters of ovarian cancer cells are set based on Rac1 overexpression or knockdown.
+These programs were run using NetLogo version 6.0.2
+NetLogo can be downloaded at https://ccl.northwestern.edu/netlogo/download.shtml
